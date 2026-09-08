@@ -1,2 +1,2 @@
-# LotYC1.github.io
+# Zyakusen.github.io
 个人网站
